@@ -1,0 +1,4 @@
+kcode
+=====
+
+Kardec Code
